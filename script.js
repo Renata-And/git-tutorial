@@ -1,4 +1,4 @@
 console.log('Hello');
-console.log('version 3');
+console.log('version 1');
 
-console.log('changed3');
+console.log('new commit');
